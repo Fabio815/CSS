@@ -3,7 +3,7 @@
 }
 
 h1 {
-    display: inline;
+    display: block;
 }
 
 .azul {
@@ -18,8 +18,8 @@ h1 {
     background: olivedrab;
 }
 
-li {
+div {
     display: inline-block;
     width: 33%;
-    height: 150px;
+    height: 200px;
 }
