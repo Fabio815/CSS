@@ -1,6 +1,10 @@
-.exemplo {
+/*.exemplo {
     background: blue;
     color: rgb(65, 63, 63);
     height: 200px;
     overflow: scroll;
+}*/
+
+body {
+    overflow-x: hidden;
 }
