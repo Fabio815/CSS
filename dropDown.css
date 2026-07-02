@@ -36,10 +36,6 @@ li a:hover, .dropDown:hover .dropbtn {
     border:1px solid rgb(207, 207, 207);
 }
 
-.dropDown-content a:hover {
-    color: white;
-}
-
 .dropDown:hover .dropDown-content {
     display: block;
 }
