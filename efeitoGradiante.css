@@ -1,0 +1,6 @@
+#gradiante {
+    height: 300px;
+    width: 400px;
+    background-image: linear-gradient(to bottom right, blue, red, olive);
+    background-image: radial-gradient(red 30%, white 20%);
+}
