@@ -1,0 +1,30 @@
+/*Se for no máximo 600px ele da azul*/
+@media only screen and (max-width: 600px) {
+    body {
+        background: blue;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    body {
+        background: green;
+    }
+}
+/*Se for entre 600px e 768px*/
+@media only screen and (min-width: 768px) {
+    body {
+        background: yellow;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body {
+        background: red;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background: violet;
+    }
+}
