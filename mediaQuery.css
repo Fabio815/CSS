@@ -1,3 +1,7 @@
+h1 {
+    font-size: 14px;
+}
+
 /*Se for no máximo 600px ele da azul*/
 @media only screen and (max-width: 600px) {
     body {
@@ -27,4 +31,14 @@
     body {
         background: violet;
     }
+    h1 {
+        font-size: 24px;
+    }
 }
+
+/*
+    Colocar entre 2 valores
+    @media screen and (min-width: 600px) and (max-width: 900px) {
+        código...
+    }
+*/
